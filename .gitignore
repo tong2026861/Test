@@ -1,0 +1,10 @@
+# 编译产物
+*.exe
+*.o
+logids
+
+# 运行产物（report.csv 作为示例输出保留在仓库中）
+report_*.csv
+out.txt
+h.txt
+err.txt

@@ -1,0 +1,15 @@
+2024-01-10 12:00:01 src=203.0.113.9 dst_port=21 result=DROP
+2024-01-10 12:00:03 src=203.0.113.9 dst_port=22 result=DROP
+2024-01-10 12:00:05 src=203.0.113.9 dst_port=23 result=DROP
+2024-01-10 12:00:07 src=203.0.113.9 dst_port=25 result=DROP
+2024-01-10 12:00:09 src=203.0.113.9 dst_port=80 result=DROP
+2024-01-10 12:00:11 src=203.0.113.9 dst_port=110 result=DROP
+2024-01-10 12:00:13 src=203.0.113.9 dst_port=139 result=DROP
+2024-01-10 12:00:15 src=203.0.113.9 dst_port=443 result=DROP
+2024-01-10 12:00:17 src=203.0.113.9 dst_port=445 result=DROP
+2024-01-10 12:00:19 src=203.0.113.9 dst_port=1433 result=DROP
+2024-01-10 12:00:21 src=203.0.113.9 dst_port=3306 result=DROP
+2024-01-10 12:00:23 src=203.0.113.9 dst_port=3389 result=DROP
+2024-01-10 12:01:00 src=10.0.0.21 dst_port=443 result=ACCEPT
+2024-01-10 12:01:20 src=10.0.0.22 dst_port=443 result=ACCEPT
+2024-01-10 12:01:40 src=10.0.0.23 dst_port=22 result=ACCEPT
